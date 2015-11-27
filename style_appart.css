@@ -1,0 +1,42 @@
+#entete, #tchat, #contenu, #footer {
+	padding:1px 0;
+}
+#entete {
+	background-color:silver;
+	text-align:center;
+}
+#titre {
+	float:left;
+	width: 100%;
+	background-color:rgb(198, 248, 253);
+}
+#contenu {
+	width : 90%;
+	border-left: 1px solid black;
+}
+#footer {
+	background-color:silver;
+	text-align:center;
+	clear:both;
+}
+body{
+	font-size: 20px;
+	font-family: Georgia;
+}
+#image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.col-2
+{
+	display: inline-block;
+	padding : 0% 0% 0% 0%;
+    width : 49%;
+    heigth: 100%;
+    float : left;
+    margin : 0% 0% 0% 0%;
+}
+#text{
+	margin-left: 10%;
+}
