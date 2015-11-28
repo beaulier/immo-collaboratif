@@ -1,0 +1,11 @@
+{
+  "name": "TChat",
+  "version": "0.0.1",
+  "description": "Real time web chat",
+  "dependencies": {
+    "fs": "latest",
+    "express": "latest",
+    "socket.io": "latest"
+  },
+  "author": "topteam5"
+}
