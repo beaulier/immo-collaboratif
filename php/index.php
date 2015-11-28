@@ -17,7 +17,7 @@
 			<div id="map"></div>
 		</section>
 		<footer>
-		<p>Le renouveau de l'immobilier<p>
+		<p>Le renouveau de l'immobilier</p>
 			<script type="text/javascript" src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
 			<script src='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
 			
