@@ -2,12 +2,12 @@
 <html>
     <head>
         <meta charset="utf-8" />
+		<link rel="stylesheet" href="../css/jform.css">
         <title>Inscription à Instriit</title>
-        <link rel="stylesheet" type="text/css" href="jform.css">
     </head>
     <body>
-    	<header class="container"><h4>Inscription</h4></header>
-	    <div class="container">
+    	<header class="container"><h1>Inscription</h4></header>
+	    <div class="container" id="text">
 	    	<form action="cible.php" method="post">
 	    		<div class="form-group">
 				    <label>Prénom:</label>
@@ -38,6 +38,7 @@
 		</div>
 		<div id="validation"></div>
 		<footer>
+		<h2>InSTRiiT</h2>
 		</footer>
 	</body>
 </html>

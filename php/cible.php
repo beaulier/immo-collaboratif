@@ -24,6 +24,6 @@
 			$bdd->exec("insert into profils(nom, age, adresse, metier, sport, film, state)values('$nom', '$age', '$adresse', '$metier', '$sport', '$film', '$state')");
 		?>
 			<div> Inscription effectuee !</div>
-			<a href="http://127.0.0.1/projet-immo/immo.php">Retourner a Instriit</a>
+			<a href="http://127.0.0.1/projet-immo/php/index.php">Retourner a Instriit</a>
 	</body>
 </html>
